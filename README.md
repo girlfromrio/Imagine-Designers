@@ -7,3 +7,8 @@ The team 22 has choosen the name "Imagine Designers" as the studio name.
 86941  André Santos <br />
 95529  Yilin Wang <br />
 104808 Tomás Inácio <br />
+# Repository Organization
+This repository was organized by work week. <br />
+Week 1: Hunt Statement, Research Plan, Interviews and quantitative surveys. <br />
+Week 2: Analysing and synthesising data, creating personas, scenarios and CI models. <br />
+Week 3: StoryBoards and Ideation. <br />
