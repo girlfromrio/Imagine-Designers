@@ -11,18 +11,18 @@ The team 22 has choosen the name "Imagine Designers" as the studio name.
 This repository was organized by work week. <br />
 # Week 1: Hunt Statement, Research Plan, Interviews and quantitative surveys. <br />
 <br />
-HuntStatementAndResearchPlan.pdf
-InterviewQuotations.pdf: Transcribed interviews.
-Survey answers.pdf: Quantitative Surveys Questions and Results.
-CodingAndTheory.pdf: Theory generated from coding.
+HuntStatementAndResearchPlan.pdf <br />
+InterviewQuotations.pdf: Transcribed interviews. <br />
+Survey answers.pdf: Quantitative Surveys Questions and Results. <br />
+CodingAndTheory.pdf: Theory generated from coding.<br />
 # Week 2: Analysing and synthesising data, creating personas, scenarios, problem StoryBoards and CI models. <br />
 <br />
-PersonasAndScenarios.pdf
-ProblemStoryBoard.pdf: Storyboards focoused on each Persona's problem.
-CIModel.pdf: General CI Model.
-CIModel_Bianca.pdf: CI Model regarding Bianca's situation.
-CIModel_Bruno.pdf: CI Model regarding Bruno's situation.
-CIModel_Jeremias.pdf: CI Model regarding Jeremias's situation.
+PersonasAndScenarios.pdf <br />
+ProblemStoryBoard.pdf: Storyboards focoused on each Persona's problem. <br />
+CIModel.pdf: General CI Model. <br />
+CIModel_Bianca.pdf: CI Model regarding Bianca's situation.<br />
+CIModel_Bruno.pdf: CI Model regarding Bruno's situation.<br />
+CIModel_Jeremias.pdf: CI Model regarding Jeremias's situation.<br />
 # Week 3: Solution StoryBoards and Ideation. <br />
 Ideation.pdf: Features for the upcoming app regarding each Persona's needs and preferences. <br />
 IdeationBoard.pdf: Board made with Miro Tool regarding features for the upcoming app. <br />
