@@ -10,5 +10,5 @@ The team 22 has choosen the name "Imagine Designers" as the studio name.
 # Repository Organization
 This repository was organized by work week. <br />
 Week 1: Hunt Statement, Research Plan, Interviews and quantitative surveys. <br />
-Week 2: Analysing and synthesising data, creating personas, scenarios and CI models. <br />
-Week 3: StoryBoards and Ideation. <br />
+Week 2: Analysing and synthesising data, creating personas, scenarios, problem StoryBoards and CI models. <br />
+Week 3: Solution StoryBoards and Ideation. <br />
