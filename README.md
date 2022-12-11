@@ -2,11 +2,11 @@
 This is a study repository for the course User-Centered Design and Evalution (post-Mepp 2022/2023). <br />
 The team 22 has choosen the name "Imagine Designers" as the studio name.
 # Team Members
-95529  Ana Carolina Baptista <br />
-88064  Ana Catarina Teixeira <br />
-86941  André Santos <br />
+95529   Ana Carolina Baptista <br />
+88064   Ana Catarina Teixeira <br />
+86941   André Santos <br />
 104808  Yilin Wang <br />
-89841 Tomás Inácio <br />
+89841   Tomás Inácio <br />
 # Repository Organization
 This repository was organized by work week. <br />
 <br />
@@ -31,3 +31,4 @@ Green tag: Good Idea <br />
 Yellow tag: Maybe <br />
 Blue Tag: Approved <br />
 Red tag: Rejected <br />
+SolutionStoryboard: Storyboards focoused on each Persona's solution. <br />
