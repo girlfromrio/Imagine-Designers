@@ -27,8 +27,7 @@ CIModel_Jeremias.pdf: CI Model regarding Jeremias's situation.<br />
 ## Week 3: Solution storyBoards, ideation, team presentation and video. <br />
 Ideation.pdf: Features for the upcoming app regarding each Persona's needs and preferences. <br />
 IdeationBoard.pdf: Board made with Miro Tool regarding features for the upcoming app. The features have been divided into four categories: Inputting Transactions, Investing, Visualize Expenses and Other. <br />
-Green tag: Good Idea <br /> 
-Yellow tag: Maybe <br />
-Blue Tag: Approved <br />
-Red tag: Rejected <br />
+Green tag: Good Idea Yellow tag: Maybe Blue Tag: Approved Red tag: Rejected <br />
 SolutionStoryboard: Storyboards focoused on each Persona's solution. <br />
+Team22_presentation_slides.pdf: explanatory slide presentation detailing the elements of the work done so far.<br />
+
