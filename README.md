@@ -17,7 +17,7 @@ Survey answers.pdf: Quantitative Surveys Questions and Results. <br />
 CodingAndTheory.pdf: Theory generated from coding.<br />
 <br />
 ## Week 2: Analysing and synthesising data, creating personas, scenarios, problem StoryBoards and CI models. <br />
-PersonasAndScenarios.pdf <br />
+PersonasAndScenarios.pdf: Bianca, Bruno and Jeremias are the created personas and they have different backgrounds and problems. They were based on the interviews made. <br />
 ProblemStoryBoard.pdf: Storyboards focoused on each Persona's problem. <br />
 CIModel.pdf: General CI Model. <br />
 CIModel_Bianca.pdf: CI Model regarding Bianca's situation.<br />
