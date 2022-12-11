@@ -11,7 +11,7 @@ The team 22 has choosen the name "Imagine Designers" as the studio name.
 This repository was organized by work week. <br />
 <br />
 ## Week 1: Hunt Statement, Research Plan, Interviews and quantitative surveys.<br />
-HuntStatementAndResearchPlan.pdf <br />
+HuntStatementAndResearchPlan.pdf: Research plans and goals. <br />
 InterviewQuotations.pdf: Transcribed interviews. <br />
 Survey answers.pdf: Quantitative Surveys Questions and Results. <br />
 CodingAndTheory.pdf: Theory generated from coding.<br />
@@ -26,8 +26,7 @@ CIModel_Jeremias.pdf: CI Model regarding Jeremias's situation.<br />
 <br />
 ## Week 3: Solution storyBoards, ideation, team presentation and video. <br />
 Ideation.pdf: Features for the upcoming app regarding each Persona's needs and preferences. <br />
-IdeationBoard.pdf: Board made with Miro Tool regarding features for the upcoming app. The features have been divided into four categories: Inputting Transactions, Investing, Visualize Expenses and Other. <br />
-Green tag: Good Idea Yellow tag: Maybe Blue Tag: Approved Red tag: Rejected <br />
-SolutionStoryboard: Storyboards focoused on each Persona's solution. <br />
+IdeationBoard.pdf: Board made with Miro Tool regarding features for the upcoming app. The features have been divided into four categories: Inputting Transactions, Investing, Visualize Expenses and Other. Green tag: Good Idea Yellow tag: Maybe Blue Tag: Approved Red tag: Rejected <br />
+SolutionStoryboard.pdf: Storyboards focoused on each Persona's solution. <br />
 Team22_presentation_slides.pdf: explanatory slide presentation detailing the elements of the work done so far.<br />
 
