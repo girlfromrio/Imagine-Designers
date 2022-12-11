@@ -24,7 +24,7 @@ CIModel_Bianca.pdf: CI Model regarding Bianca's situation.<br />
 CIModel_Bruno.pdf: CI Model regarding Bruno's situation.<br />
 CIModel_Jeremias.pdf: CI Model regarding Jeremias's situation.<br />
 <br />
-## Week 3: Solution StoryBoards and Ideation. <br />
+## Week 3: Solution storyBoards, ideation, team presentation and video. <br />
 Ideation.pdf: Features for the upcoming app regarding each Persona's needs and preferences. <br />
 IdeationBoard.pdf: Board made with Miro Tool regarding features for the upcoming app. The features have been divided into four categories: Inputting Transactions, Investing, Visualize Expenses and Other. <br />
 Green tag: Good Idea <br /> 
