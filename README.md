@@ -12,3 +12,10 @@ This repository was organized by work week. <br />
 Week 1: Hunt Statement, Research Plan, Interviews and quantitative surveys. <br />
 Week 2: Analysing and synthesising data, creating personas, scenarios, problem StoryBoards and CI models. <br />
 Week 3: Solution StoryBoards and Ideation. <br />
+Ideation.pdf: Features for the upcoming app regarding each Persona's needs and preferences. <br />
+IdeationBoard.pdf: Board made with Miro Tool regarding features for the upcoming app. <br />
+The features have been divided into four categories: Inputting Transactions, Investing, Visualize Expenses and Other. <br />
+Green tag: Good Idea <br />
+Yellow tag: Maybe <br />
+Blue Tag: Approved <br />
+Red tag: Rejected <br />
