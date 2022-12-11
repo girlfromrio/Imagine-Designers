@@ -29,5 +29,5 @@ Ideation.pdf: Features for the upcoming app regarding each Persona's needs and p
 IdeationBoard.pdf: Board made with Miro Tool regarding features for the upcoming app. The features have been divided into four categories: Inputting Transactions, Investing, Visualize Expenses and Other. Green tag: Good Idea Yellow tag: Maybe Blue Tag: Approved Red tag: Rejected <br />
 SolutionStoryboard.pdf: Storyboards focoused on each Persona's solution. <br />
 Team22_presentation_slides.pdf: explanatory slide presentation detailing the elements of the work done so far.<br />
-Link do the video: https://youtu.be/Qk0Z3O7kOF0 <br />
+Link to the video: https://youtu.be/Qk0Z3O7kOF0 <br />
 
