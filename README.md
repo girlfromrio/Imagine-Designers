@@ -5,8 +5,8 @@ The team 22 has choosen the name "Imagine Designers" as the studio name.
 95529  Ana Carolina Baptista <br />
 88064  Ana Catarina Teixeira <br />
 86941  André Santos <br />
-95529  Yilin Wang <br />
-104808 Tomás Inácio <br />
+104808  Yilin Wang <br />
+89841 Tomás Inácio <br />
 # Repository Organization
 This repository was organized by work week. <br />
 <br />
