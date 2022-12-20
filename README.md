@@ -30,4 +30,6 @@ IdeationBoard.pdf: Board made with Miro Tool regarding features for the upcoming
 SolutionStoryboard.pdf: Storyboards focused on each Persona's solution. <br />
 Team22_presentation_slides.pdf: explanatory slide presentation detailing the elements of the work done so far.<br />
 Link to the video: https://drive.google.com/drive/folders/1vUOSXr2gk56jZubjxhOiet2mRsMwB4Ma <br />
+## Week 4: Low Fidelity Prototypes and user's feedback. <br />
+## Week 5: Mid Fidelity Prototypes, evaluation plan and team presentation and video. <br />
 
