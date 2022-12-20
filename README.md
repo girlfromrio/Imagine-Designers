@@ -34,4 +34,4 @@ Link to the video: https://drive.google.com/drive/folders/1vUOSXr2gk56jZubjxhOie
 LowPrototype.pdf: paper and pencil drawings <br />
 FeedbacksFromTesing: users's reviews and suggestions <br />
 ## Week 5: Mid Fidelity Prototypes, evaluation plan, team presentation and video. <br />
-
+EvaluationPlan.pdf: future perspectives.
