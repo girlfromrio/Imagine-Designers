@@ -32,6 +32,6 @@ Team22_presentation_slides.pdf: explanatory slide presentation detailing the ele
 Link to the video: https://drive.google.com/drive/folders/1vUOSXr2gk56jZubjxhOiet2mRsMwB4Ma <br />
 ## Week 4: Low Fidelity Prototypes and user's feedback. <br />
 LowPrototype.pdf: paper and pencil drawings <br />
-FeedbacksFromTesing: users's reviews and suggestions <br />
+FeedbacksFromTesting.pdf: users's reviews and suggestions <br />
 ## Week 5: Mid Fidelity Prototypes, evaluation plan, team presentation and video. <br />
 EvaluationPlan.pdf: future perspectives.
