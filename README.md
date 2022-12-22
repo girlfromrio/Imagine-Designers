@@ -37,5 +37,5 @@ FeedbacksFromTesting.pdf: users's reviews and suggestions <br />
 Link to mid fidelity prototype: https://www.figma.com/proto/zujETdomPKSKPhATnck4Qp/Medium-Fidelity?node-id=1%3A16&starting-point-node-id=1%3A16&scaling=scale-down <br/>
 EvaluationPlan.pdf: future perspectives. <br />
 FeedbacksFromMidFiTesting.pdf: user's reviews and suggestions from the mid-fi prototype. <br />
-Team22_presentation_slides.pptxc: explanatory slide presentation detailing the elements of the work done so far.<br />
+Team22_presentation_slides.pptx: explanatory slide presentation detailing the elements of the work done so far.<br />
 Link to video: <br />
