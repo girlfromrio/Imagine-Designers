@@ -38,4 +38,4 @@ Link to mid fidelity prototype: https://www.figma.com/proto/zujETdomPKSKPhATnck4
 EvaluationPlan.pdf: future perspectives. <br />
 FeedbacksFromMidFiTesting.pdf: user's reviews and suggestions from the mid-fi prototype. <br />
 Team22_presentation_slides.pptx: explanatory slide presentation detailing the elements of the work done so far.<br />
-Link to video: <br />
+Link to video: https://drive.google.com/drive/folders/1vUOSXr2gk56jZubjxhOiet2mRsMwB4Ma<br />
