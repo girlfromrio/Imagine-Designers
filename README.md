@@ -39,6 +39,6 @@ EvaluationPlan.pdf: future perspectives. <br />
 FeedbacksFromMidFiTesting.pdf: user's reviews and suggestions from the mid-fi prototype. <br />
 Team22_presentation_slides.pptx: explanatory slide presentation detailing the elements of the work done so far.<br />
 Link to video: https://drive.google.com/drive/folders/1vUOSXr2gk56jZubjxhOiet2mRsMwB4Ma<br />
-## Week 6: High Fidelity Prototypes and user feedback <br />
+## Week 6: High Fidelity Prototype Changes and user feedback <br />
+## Week 7: High Fidelity Prototype and Team presentation <br />
 link to the high fidelity prototype: https://www.figma.com/proto/4bQhzrrOtDRqTPBTBiXUZQ/High-Fidelity?node-id=27%3A32&scaling=scale-down&page-id=0%3A1&starting-point-node-id=27%3A32
-## Week 7: Team presentation <br />
